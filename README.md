@@ -29,6 +29,7 @@ Here's a smattering of technologies the team is currently utilizing: (in no part
 *Swift (iOS development)
 *C# (Microsoft Forms Apps)
 *MAXL
+*Hyperion Calc Script
 
 The successful candidate need not be an expert at all of these things (that's not likely or reasonable), but should be able and willing to learn if given the time and opportunity.
 
